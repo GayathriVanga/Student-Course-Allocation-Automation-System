@@ -324,3 +324,5 @@ npm run dev
 | GET    | /api/admin/students             | All students        |
 | PUT    | /api/admin/semester/deadline    | Update deadline     |
 | POST   | /api/admin/semester/reset       | Reset allocation    |
+
+It is used to reduce the manual risk from allocating the courses
